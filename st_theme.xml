@@ -13,3 +13,18 @@
 </theme>
   </data>
    </themes>
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<themes>
+<data xml="https://raw.githubusercontent.com/SalahTaha13/IOS-StoreTheme/STMods/xml/" walls="https://raw.githubusercontent.com/SalahTaha13/IOS-StoreTheme/STMods/walls/" screens="https://raw.githubusercontent.com/SalahTaha13/IOS-StoreTheme/STMods/screens"/>
+
+
+
+
+<theme>
+<title>IOS_Light</title>
+<date>03/01/2022</date>
+</theme>
+  </data>
+   </themes>

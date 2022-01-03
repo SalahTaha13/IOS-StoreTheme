@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
-<themes>
-<data xmls="https://github.com/SalahTaha13/IOS-StoreTheme/blob/STMods/xml/" walls="https://github.com/SalahTaha13/IOS-StoreTheme/blob/STMods/walls/" scs="https://github.com/SalahTaha13/IOS-StoreTheme/blob/STMods/screens/"/>
 
 
 
 
-<theme>
-<title>IOS_Light</title>
-<date>03/01/2022</date>
-</theme>
-  </data>
-   </themes>
+  
+   
 <?xml version="1.0" encoding="UTF-8"?>
 
 
@@ -27,4 +18,5 @@
 <date>03/01/2022</date>
 </theme>
   </data>
-   </themes>
+    </themes>
+  

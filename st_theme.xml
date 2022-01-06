@@ -10,5 +10,21 @@
 <title>IOS_Light</title>
 <date>03/01/2022</date>
   </theme>
+  <theme>
+<title>IOS_Night</title>
+<date>03/01/2022</date>
+  </theme>
+  <theme>
+    <title>IOS_Green</title>
+    <date>03/01/2022</date> 
+  </theme>
+  <theme>
+    <title>IOS_Cartoon</title>
+    <date>06/01/2022</date> 
+  </theme>
+  <theme>
+    <title>IOS_Naruto</title>
+    <date>03/01/2022</date>
+  </theme>
   </data>
 </themes>

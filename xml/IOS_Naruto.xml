@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="" value="false" />
+    <boolean name="dodi_key_namadrawer_Gactive" value="false" />
+    <int name="ModChaSendBKColor" value="-13356982" />
+    <int name="quoted_text_picker" value="-1" />
+    <int name="key_avatar_border_size" value="3" />
+    <int name="dodi_key_arsipbadge_warnabackgroundluar" value="-547551" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="ModContactNameColor_Gactive" value="false" />
+    <boolean name="date_bubble_color_picker_Gactive" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="dodi_ikonobrolan_Gactive" value="false" />
+    <boolean name="dodi_key_judulrumah_Gactive" value="false" />
+    <boolean name="GP_EDIT" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="dodi_key_logoarsip_Gactive" value="false" />
+    <boolean name="hide_chatting" value="false" />
+    <int name="ShowBlahBlahBotX" value="1" />
+    <int name="dodi_uipercakapantwo" value="-10856085" />
+    <boolean name="DodibarisanBorder_Gactive" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="bgarchived_Gactive" value="false" />
+    <boolean name="dodi_key_divideraction_Gactive" value="false" />
+    <int name="dodi_doiaktif" value="-1" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <int name="dodi_key_txtaction" value="-1" />
+    <string name="ui_home_styleV3">bubble</string>
+    <int name="do_ikon_kontak" value="-1" />
+    <string name="convostyle">9</string>
+    <boolean name="Dodifab_ceritaaux_Gactive" value="false" />
+    <int name="HomeCounterBK" value="-547551" />
+    <int name="ModChatBubbleTextLeft" value="-13356982" />
+    <int name="ModHomeMentionIconColor" value="-13356982" />
+    <int name="dodi_key_teksrumah" value="-1" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="quoted_divider_picker" value="-547551" />
+    <boolean name="dodi_key_row_background_color_Gactive" value="false" />
+    <string name="rumah">93</string>
+    <int name="ModFabTextColor" value="-13356982" />
+    <boolean name="key_counter_tx_Gactive" value="false" />
+    <int name="DodiDialogrumahtxt" value="-1" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <int name="Dodimainsatu" value="-13356982" />
+    <int name="DodiPrimary" value="-13356982" />
+    <int name="dodi_key_pembatasarsip" value="-1978460908" />
+    <int name="X" value="15" />
+    <int name="Y" value="366" />
+    <int name="DodiFab_cradius" value="28" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="dodi_key_atur_arsip" value="false" />
+    <boolean name="DodiprofilView" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_counter_tx" value="-13356982" />
+    <boolean name="hide_acv" value="false" />
+    <int name="HomeCounterText" value="-13356982" />
+    <boolean name="key_row_mention" value="false" />
+    <boolean name="a" value="false" />
+    <string name="dodi_key_mainsettings">v1</string>
+    <int name="dodi_warna_titik_online" value="-547551" />
+    <boolean name="Dodimainsatu_Gactive" value="false" />
+    <boolean name="d" value="false" />
+    <boolean name="e" value="true" />
+    <int name="DodiFab_rumah" value="-547551" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <string name="DodiinfoProfilletak">0</string>
+    <boolean name="dodi_warna_titik_online2_Gactive" value="false" />
+    <boolean name="k" value="false" />
+    <string name="dodi_key_panggilan_listanimation">0</string>
+    <int name="key_dodi_dialogC" value="-13356982" />
+    <boolean name="onlineDotchat" value="false" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="dodi_foto_daftarborder_Gactive" value="false" />
+    <boolean name="u" value="false" />
+    <int name="Dodifotobar" value="-547551" />
+    <int name="ModDarkConPickColorNav" value="-10856085" />
+    <boolean name="DodiAksen_Gactive" value="false" />
+    <boolean name="x" value="false" />
+    <int name="BGColor" value="-10856085" />
+    <int name="dodi_key_arsipbadge_warnatext" value="-13356982" />
+    <int name="bgarchived" value="-13356982" />
+    <int name="do_latarkontak2" value="-13356982" />
+    <int name="quoted_bg_picker" value="-13356982" />
+    <boolean name="DodipercakapanSet" value="false" />
+    <boolean name="statuschat" value="true" />
+    <string name="dodi_mode_diem">13</string>
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <boolean name="dodi_key_bgalat_Gactive" value="false" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <boolean name="do_latarkontak2_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-1" />
+    <int name="dodi_key_bgdrawer" value="-13356982" />
+    <int name="pagetitle_sel_picker" value="-547551" />
+    <int name="DodiinfoProfiltext" value="-547551" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="dodi_key_ikonrumah" value="-1" />
+    <int name="key_counter_bg" value="-547551" />
+    <int name="ModChatColor" value="-13356982" />
+    <int name="dodi_key_logoarsip" value="-66563" />
+    <boolean name="dodi_key_txtaction_Gactive" value="false" />
+    <boolean name="hide_translation_icon" value="false" />
+    <int name="Dodifab_cerita" value="-13356982" />
+    <int name="tabadgeBKColor" value="-547551" />
+    <boolean name="admin_check" value="false" />
+    <boolean name="key_home_swipe" value="false" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="DodistoryBorderaktif" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="dodi_key_iknaction_Gactive" value="false" />
+    <boolean name="dodi_key_juduldrawer_Gactive" value="false" />
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <boolean name="dodi_warna_titik_online3_Gactive" value="false" />
+    <boolean name="dodi_key_arsipbadge_warnabackgroundluar_Gactive" value="false" />
+    <int name="dodi_key_arsipbadge_warnabackground" value="-547551" />
+    <boolean name="dodi_key_teksrumah_Gactive" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <string name="time_online_toast_key">0</string>
+    <boolean name="read_check" value="false" />
+    <int name="dodi_key_bgaction" value="-13356982" />
+    <boolean name="dodi_key_arsipbadge_warnatext_Gactive" value="false" />
+    <boolean name="DodiFab_cbayangan" value="true" />
+    <string name="delight_app_theme">1</string>
+    <int name="dodi_key_namadrawer" value="-1" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <string name="Dodi_pencarianKata">26</string>
+    <int name="dodi_key_judularsip" value="-66563" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="DodiFab_cborder" value="-547551" />
+    <int name="Dodifab_ceritaikon" value="-1" />
+    <int name="tabadgeTextColor" value="-13356982" />
+    <string name="ConvoEntry">29</string>
+    <int name="ModConColor" value="-13356982" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="DodiinfoAktiftext_Gactive" value="false" />
+    <int name="dodi_obrolan_kembali" value="-1" />
+    <string name="tick_style">yousef</string>
+    <boolean name="key_dodi_dialogtC_Gactive" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="dodi_warna_titik_online_Gactive" value="false" />
+    <boolean name="status_ch_Gactive" value="false" />
+    <boolean name="seeseen" value="false" />
+    <int name="DodibarisanRadius" value="12" />
+    <boolean name="do_latarkontak_Gactive" value="false" />
+    <string name="dodi_key_barispanggilan">v2</string>
+    <int name="tabindicator" value="-13356982" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <boolean name="Dodifotobar_Gactive" value="false" />
+    <boolean name="key_quick_view" value="false" />
+    <int name="DodiAksen" value="-2423543" />
+    <boolean name="my_name" value="false" />
+    <int name="dodi_key_warna_luararsip" value="-1978460908" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="do_ikon_kontak_Gactive" value="false" />
+    <int name="ModChatDarkColor" value="-13356982" />
+    <boolean name="ModConDarkAlpha" value="true" />
+    <boolean name="do_nomor_hp_Gactive" value="false" />
+    <boolean name="PicHead" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="dodi_key_juduldrawer" value="-1" />
+    <boolean name="hide_action_b" value="true" />
+    <boolean name="dodiPencarianUmum" value="false" />
+    <boolean name="Dodifab_ceritaikon_Gactive" value="false" />
+    <boolean name="dodi_bgheader_drawer_Gactive" value="false" />
+    <string name="DodiinfoKustomdurasi">0</string>
+    <boolean name="DodiWallChat" value="false" />
+    <boolean name="DodiDialogrumahBG_Gactive" value="false" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="key_name_stories_Gactive" value="false" />
+    <boolean name="show_thumbnail" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">conrowdodi_deltacard2</string>
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <boolean name="DodiPrimary_Gactive" value="false" />
+    <int name="date_divider_color_picker" value="-13356982" />
+    <boolean name="dodi_key_arsip_borders" value="false" />
+    <int name="key_avatar_size" value="50" />
+    <int name="DodiFab_rborder" value="0" />
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <string name="dodi_malamhariTiba">13</string>
+    <int name="dodi_key_bgalat" value="-13356982" />
+    <boolean name="hiden_sech" value="false" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="16" />
+    <int name="dodi_key_logorumah" value="-13356982" />
+    <int name="key_trans_alpha" value="50" />
+    <string name="DodiinfoAktifletak">0</string>
+    <int name="key_name_stories" value="-1" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="rvkdmsg_icon_color" value="-13356982" />
+    <string name="key_quick_position">top</string>
+    <string name="dodi_sianghariTiba">13</string>
+    <int name="DodiinfoStatusnama" value="-547551" />
+    <boolean name="DodiFab_cborder_Gactive" value="false" />
+    <int name="emojipopup_icons" value="-1" />
+    <boolean name="arc_hc_Gactive" value="false" />
+    <boolean name="status_audio" value="false" />
+    <boolean name="DodiWindowSet" value="true" />
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <int name="Dodimaintiga" value="-13356982" />
+    <int name="Dodimaindua" value="-13356982" />
+    <int name="ModFabNormalColor" value="-547551" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="dodi_key_atur_drawerikon" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="ModContactNameColor" value="-66563" />
+    <boolean name="Audio_sensor" value="true" />
+    <int name="key_row_size" value="76" />
+    <string name="contact_online_tone_do">0</string>
+    <boolean name="dodi_insta_garis_Gactive" value="false" />
+    <boolean name="key_dodi_dialogdC_Gactive" value="false" />
+    <int name="UnSeenColor" value="-547551" />
+    <boolean name="DodiFab_rborder_Gactive" value="false" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="dodi_obrolan_kembali_Gactive" value="false" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <int name="dodi_key_roundedcerita" value="10" />
+    <int name="ModConDarkColor" value="-13356982" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="OneTitle" value="false" />
+    <int name="emojipopup_body" value="-13356982" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <int name="ModChatRightBubble" value="-13356982" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <int name="dodi_key_row_background_color" value="-1691078582" />
+    <boolean name="dodi_key_pembatasarsip_Gactive" value="false" />
+    <boolean name="key_dodi_dialogC_Gactive" value="false" />
+    <boolean name="DodiFab_ikon2_Gactive" value="false" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-547551" />
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <boolean name="yo_want_airplanemode" value="false" />
+    <int name="ModDarkConPickColor" value="-13356982" />
+    <boolean name="dodi_uipercakapantwo_Gactive" value="false" />
+    <boolean name="DodiFab_obrolan_Gactive" value="false" />
+    <boolean name="DodiFab_ikon_Gactive" value="false" />
+    <int name="status_ch" value="-547551" />
+    <string name="dodi_key_status_listanimation">0</string>
+    <int name="ModConTextColor" value="-66563" />
+    <string name="home_lay">1</string>
+    <boolean name="key_with_thumb" value="false" />
+    <string name="dodi_mode_diemAktif">12</string>
+    <boolean name="do_lingkaran_kontak1_Gactive" value="false" />
+    <int name="dodi_key_iknaction" value="-1" />
+    <boolean name="PicProf" value="false" />
+    <int name="dodi_bgheader_drawer" value="-13356982" />
+    <int name="dodi_key_judulrumah" value="-1" />
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <boolean name="Dodifab_cerita_Gactive" value="false" />
+    <int name="dodi_key_baris_roundarsip" value="10" />
+    <boolean name="dodi_key_icondrawer_Gactive" value="false" />
+    <boolean name="Dodimaindua_Gactive" value="false" />
+    <string name="dodi_InstaObrolanKU">9</string>
+    <int name="do_latarkontak" value="-13356982" />
+    <string name="dodi_key_obrolan_listanimation">0</string>
+    <int name="DodiinfoKustomradius" value="12" />
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="profile_toast" value="false" />
+    <int name="do_lingkaran_kontak1" value="-547551" />
+    <int name="key_dodi_dialogtC" value="-1" />
+    <boolean name="hiden_group" value="false" />
+    <boolean name="dodi_key_fabrumah_Gactive" value="false" />
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <string name="bubble_style">0</string>
+    <boolean name="DodiFab_rumah_Gactive" value="false" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="dodi_foto_daftarborder" value="-547551" />
+    <boolean name="key_counter_bg_Gactive" value="false" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <boolean name="dodi_doiaktif_Gactive" value="false" />
+    <int name="key_dodi_dialogdC" value="-1" />
+    <boolean name="AttBt" value="false" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <string name="dodi_halamanku">0</string>
+    <boolean name="statuses_toast" value="false" />
+    <boolean name="dodi_key_warna_backgroundarsip_Gactive" value="false" />
+    <boolean name="dodi_key_judularsip_Gactive" value="false" />
+    <boolean name="DodiinfoProfiltext_Gactive" value="false" />
+    <int name="date_left_color" value="-13356982" />
+    <string name="dodi_key_barisstatus">v2</string>
+    <int name="DodiFab_ikon2" value="-13356982" />
+    <boolean name="DodiinfoStatusnama_Gactive" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <string name="key_chats_listanimation">0</string>
+    <string name="dodi_key_gayaarsip">v2</string>
+    <int name="date_bubble_color_picker" value="-1" />
+    <string name="dodi_kontak_gw">v6</string>
+    <boolean name="DodiinfoKustom" value="true" />
+    <boolean name="status_nw_Gactive" value="false" />
+    <boolean name="dodi_key_textdrawer_Gactive" value="false" />
+    <int name="DodiFab_rradius" value="28" />
+    <int name="statuses_bar_bg_picker" value="-13356982" />
+    <int name="emojipopup_header" value="-13356982" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="quoted_name_picker" value="-1" />
+    <int name="dodi_insta_garis" value="14353673" />
+    <int name="HomeBarText" value="-547551" />
+    <boolean name="DodistatusView" value="true" />
+    <boolean name="dodi_key_bgdrawer_Gactive" value="false" />
+    <boolean name="DodiOne" value="true" />
+    <string name="Dodi_tampilanIkonKesayangan">0</string>
+    <boolean name="DodiDialogrumahtxt_Gactive" value="false" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="dodi_key_ikonrumah_Gactive" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="auto_notify_key">0</string>
+    <boolean name="tabindicator_Gactive" value="false" />
+    <boolean name="dodi_key_bgaction_Gactive" value="false" />
+    <boolean name="dodi_key_warna_luararsip_Gactive" value="false" />
+    <int name="statuses_bar_text_picker" value="-1" />
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <int name="DodiDialogrumahBG" value="-13356982" />
+    <int name="DodiFab_obrolan" value="-547551" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <string name="dodii">63</string>
+    <boolean name="OneIcon" value="false" />
+    <int name="status_nw" value="-547551" />
+    <int name="DodibarisanBorder" value="-1691078582" />
+    <int name="DodiinfoAktiftext" value="-547551" />
+    <boolean name="enable_ig_stories" value="true" />
+    <int name="ModConPickColor" value="-13356982" />
+    <int name="dodi_key_warna_backgroundarsip" value="-1691078582" />
+    <int name="do_nomor_hp" value="-1" />
+    <string name="dodi_key_bariskontak">v2</string>
+    <int name="dodi_key_divideraction" value="-1" />
+    <int name="dodi_key_icondrawer" value="-1" />
+    <boolean name="DodiFab_rbayangan" value="true" />
+    <string name="key_story_view">0</string>
+    <boolean name="read_more" value="false" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="dodi_key_atur_banner" value="true" />
+    <boolean name="dodi_key_arsipbadge_warnabackground_Gactive" value="false" />
+    <int name="dodi_key_fabrumah" value="-547551" />
+    <string name="dodi_setelan_gw">v1</string>
+    <boolean name="custom_wall" value="false" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="DodiFab_ikon" value="-13356982" />
+    <int name="dodi_ikonobrolan" value="-1" />
+    <int name="dodi_warna_titik_online3" value="-547551" />
+    <int name="dodi_warna_titik_online2" value="-547551" />
+    <int name="ModHomeMentionIndBackground" value="-547551" />
+    <boolean name="key_dodi_fabA" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-13356982" />
+    <string name="DodiinfoStatusletak">0</string>
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="dodi_key_textdrawer" value="-1" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <int name="ModChatTextColor" value="-1" />
+    <boolean name="Dodimaintiga_Gactive" value="false" />
+    <int name="arc_hc" value="-547551" />
+    <boolean name="DodibarisanUkuranborder" value="false" />
+    <int name="Dodifab_ceritaaux" value="-13356982" />
+    <boolean name="dodi_key_logorumah_Gactive" value="false" />
+    <int name="SeenColor" value="-1691078582" />
+</map>

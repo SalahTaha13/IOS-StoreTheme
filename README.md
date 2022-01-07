@@ -1,2 +1,2 @@
 # IOS-StoreTheme
-OT WhatsApp Themes
+ST WhatsApp Themes
